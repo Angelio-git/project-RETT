@@ -39,7 +39,7 @@ const exampleImages = [
     title: "Custom Image",
   },
   {
-    url: "public/ret2.jpg",
+    url: "https://raw.githubusercontent.com/Angelio-git/project-RETT/main/public/ret2.jpg",
     link: "",
     author: "",
     title: "Custom Image",
